@@ -17,4 +17,4 @@ Nous avons suivi un développement itératif. Donc ce projet a été découpé e
 4) Itération 4 => Intégrer à l’application la possibilité de jouer à deux joueurs ou de jouer seul contre l’ordinateur.
 
 
-Nous avons également suivi une architecture logicielle MVC. 
+Nous avons également suivi une architecture logicielle MVC.
