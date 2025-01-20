@@ -14,7 +14,7 @@ Nous avons suivi un développement itératif. Donc ce projet a été découpé e
 3) Itération 3 => Développer une application proposant deux jeux au choix, le jeu de Nim ou le jeu Puissance 4 à deux joueurs avec intégration de contraintes sur les deux jeux.
 
 
-4) Itération 4 => Intégrer à l’application la possibilité de jouer à deux joueurs ou de jouer seul contre l’ordinateur.
+4) Itération 4 => Intégrer à l’application la possibilité de jouer à deux joueurs ou de jouer seul contre l’ordinateur + intégration de stratégies pour l'ordinateur.
 
 
 Nous avons également suivi une architecture logicielle MVC.
